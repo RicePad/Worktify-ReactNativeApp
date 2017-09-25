@@ -69,7 +69,7 @@ class App extends Component {
                         onClick={() => this.addReminder()}
                         
                         >
-                            Entrar
+                            Guardar
                         </button>
                     </div>
                    
